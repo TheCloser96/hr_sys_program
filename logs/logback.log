@@ -1,0 +1,56 @@
+[2022-09-23 01:07:49:1361] INFO  12088 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 12088 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 01:07:49:1374] INFO  12088 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 01:07:56:8639] INFO  12088 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 8.188 seconds (JVM running for 9.157)
+[2022-09-23 01:09:25:97302] INFO  12088 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 01:09:25:97304] INFO  12088 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+[2022-09-23 01:12:29:1286] INFO  18592 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 18592 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 01:12:29:1288] INFO  18592 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 01:12:35:7559] INFO  18592 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 7.158 seconds (JVM running for 7.986)
+[2022-09-23 01:12:52:23762] INFO  18592 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 01:12:52:23765] INFO  18592 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+[2022-09-23 01:16:12:1353] INFO  20372 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 20372 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 01:16:12:1355] INFO  20372 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 01:16:17:7086] INFO  20372 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 6.624 seconds (JVM running for 7.484)
+[2022-09-23 01:16:21:10535] INFO  20372 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 01:16:21:10538] INFO  20372 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+[2022-09-23 01:37:24:1191] INFO  24896 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 24896 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 01:37:24:1193] INFO  24896 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 01:37:29:6823] INFO  24896 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 6.431 seconds (JVM running for 7.22)
+[2022-09-23 01:38:43:79919] INFO  24896 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 01:38:43:79922] INFO  24896 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+[2022-09-23 01:42:13:1260] INFO  18556 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 18556 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 01:42:13:1262] INFO  18556 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 01:42:19:7232] INFO  18556 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 6.776 seconds (JVM running for 7.635)
+[2022-09-23 01:42:23:11039] INFO  18556 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 01:42:23:11043] INFO  18556 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+[2022-09-23 02:02:21:1389] INFO  24724 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 24724 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 02:02:21:1392] INFO  24724 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 02:02:27:7588] INFO  24724 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 7.158 seconds (JVM running for 8.008)
+[2022-09-23 02:02:33:13543] INFO  24724 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 02:02:33:13549] INFO  24724 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+[2022-09-23 02:03:16:1447] INFO  22144 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 22144 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 02:03:16:1450] INFO  22144 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 02:03:22:7661] INFO  22144 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 7.22 seconds (JVM running for 8.095)
+[2022-09-23 02:03:26:10963] INFO  22144 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 02:03:26:10965] INFO  22144 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+[2022-09-23 02:05:25:129832] WARN  22144 --- [nio-8080-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `java.lang.Long` from Object value (token `JsonToken.START_OBJECT`); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `java.lang.Long` from Object value (token `JsonToken.START_OBJECT`)<EOL> at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 2, column: 19] (through reference chain: com.example.hr_sys_program.controller.dto.MembersSalaryDto["membersId"]->java.util.ArrayList[0])]
+[2022-09-23 02:20:50:1259] INFO  12548 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 12548 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 02:20:50:1261] INFO  12548 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 02:20:56:7343] INFO  12548 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 6.919 seconds (JVM running for 7.739)
+[2022-09-23 02:21:03:1323] INFO  9844 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 9844 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 02:21:03:1326] INFO  9844 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 02:21:09:7395] INFO  9844 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 6.972 seconds (JVM running for 7.829)
+[2022-09-23 02:21:20:19113] INFO  9844 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 02:21:20:19117] INFO  9844 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+[2022-09-23 15:38:51:1380] INFO  2688 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Starting HrSysProgramApplication using Java 11.0.14 on DESKTOP-T3FBHFC with PID 2688 (C:\Users\chung\IdeaProjects\hr_sys_program\out\production\classes started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 15:38:51:1382] INFO  2688 --- [  restartedMain] c.e.h.HrSysProgramApplication            : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 15:38:57:7688] INFO  2688 --- [  restartedMain] c.e.h.HrSysProgramApplication            : Started HrSysProgramApplication in 7.209 seconds (JVM running for 8.167)
+[2022-09-23 15:49:31:641126] INFO  2688 --- [nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+[2022-09-23 15:49:31:641127] INFO  2688 --- [nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+[2022-09-23 15:49:31:641260] INFO  2688 --- [nio-8080-exec-3] c.e.h.controller.MemberController        : method: changeMembersSalary 진입
+[2022-09-23 15:49:31:641261] INFO  2688 --- [nio-8080-exec-3] c.e.h.controller.MemberController        : 해당 사원 ID: [5, 6]
+[2022-09-23 15:49:31:641261] INFO  2688 --- [nio-8080-exec-3] c.e.h.controller.MemberController        : 감가 연봉: -2000
+[2022-09-23 15:49:31:641581] INFO  2688 --- [nio-8080-exec-3] c.e.h.controller.MemberController        : 연봉 조정된 사원 인원수: 2
+[2022-09-23 16:15:26:1072] INFO  21492 --- [           main] c.e.h.service.MemberServiceTest          : Starting MemberServiceTest using Java 11.0.14 on DESKTOP-T3FBHFC with PID 21492 (started by chung in C:\Users\chung\IdeaProjects\hr_sys_program)
+[2022-09-23 16:15:26:1073] INFO  21492 --- [           main] c.e.h.service.MemberServiceTest          : No active profile set, falling back to 1 default profile: "default"
+[2022-09-23 16:15:31:5881] INFO  21492 --- [           main] c.e.h.service.MemberServiceTest          : Started MemberServiceTest in 5.373 seconds (JVM running for 6.696)

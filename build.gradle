@@ -1,0 +1,67 @@
+buildscript {
+	ext {
+		queryDslVersion = "5.0.0"
+	}	//querydsl 버전 추가
+}
+
+plugins {
+	id 'org.springframework.boot' version '2.7.3'
+	id 'io.spring.dependency-management' version '1.0.13.RELEASE'
+	id 'java'
+
+	id "com.ewerk.gradle.plugins.querydsl" version "1.0.10"	//querydsl 플러그인 추가
+}
+
+group = 'com.example'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '11'
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.boot:spring-boot-starter-logging'
+	compileOnly 'org.projectlombok:lombok'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	runtimeOnly 'mysql:mysql-connector-java'
+	annotationProcessor 'org.projectlombok:lombok'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	//querydsl 디펜던시 추가
+	implementation "com.querydsl:querydsl-jpa:${queryDslVersion}"
+	annotationProcessor "com.querydsl:querydsl-apt:${queryDslVersion}"
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
+
+
+def querydslDir = "$buildDir/generated/querydsl"	//querydsl 사용할 경로를 지정(보통의 경우 해당 경로는 gitnore에 포함되어 업로드되지 않음)
+
+querydsl {
+	jpa = true
+	querydslSourcesDir = querydslDir
+}	// JPA 사용여부 및 사용 경로 설정
+
+sourceSets {
+	main.java.srcDir querydslDir
+}	//build시 사용할 sourceSet 추가 설정
+
+configurations {
+	querydsl.extendsFrom compileClasspath
+}	//querydsl이 compileClassPath를 상속하도록 설정
+
+compileQuerydsl {
+	options.annotationProcessorPath = configurations.querydsl
+}	//querydsl 컴파일 시 사용할 옵션 설정
