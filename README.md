@@ -23,7 +23,7 @@
 
 > **전작과의 차이점 및 개선점**
 > * 화면구현 X
-> * fetch join 사용 ~~(이전 플젝할때 이걸 안했다니)~~
+> * fetch join 사용
 > * Querydsl 사용
 > * OSIV 비활성화
 > * REST API 위주의 개발
