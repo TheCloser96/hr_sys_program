@@ -7,9 +7,11 @@
 ### 프로젝트 간단 설명</br>
 사원의 정보와 부서의 정보를 입력 및 조회할 수 있는 REST API 방식 설계 </br>
 그리고 이전에 사용하지 못해봤던 Querydsl을 사용하여 효율적이고 유연하게 개발
-</br>
-#### 프로젝트 시연 링크: <https://drive.google.com/file/d/1guDAPKRqVHqyRtjHcs-UEoWHqLb9D3JQ/view?usp=sharing>
-</br>
+</br> </br>
+
+#### 해당 프로젝트 PPT 링크: <https://docs.google.com/presentation/d/1YxOMuP9DbclMwt1zFtkSuSe1xWS-c9Ig/edit?usp=sharing&ouid=115740313083613061791&rtpof=true&sd=true> </
+#### 해당 프로젝트 시연 링크: <https://drive.google.com/file/d/1guDAPKRqVHqyRtjHcs-UEoWHqLb9D3JQ/view?usp=sharing>
+</br> </br>
 
 > **사용 도구**
 > * Java 11
